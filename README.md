@@ -1,0 +1,25 @@
+This project is a comprehensive data science and analytics initiative that involves several key components:
+
+1. **Data Extraction using LLMs**
+   The project starts with the LLMs_extract_datasets.py script, which demonstrates the use of Large Language Models (LLMs), specifically GPT-3.5-turbo, to extract datasets from a PDF document.
+   This script takes a PDF file as input, reads its content, and uses the GPT-3.5-turbo model to identify and extract the relevant datasets. The extracted datasets are then saved as separate CSV files.
+   The purpose of this script is to showcase the capabilities of LLMs in extracting structured data from unstructured text sources, such as PDF documents.
+   
+3. **Data Cleaning and Aggregation (part1_data_manipulation.ipynb)**
+   The part1_data_manipulation.ipynb Jupyter Notebook file focuses on data cleaning and aggregation tasks.
+   It likely includes handling missing values, removing duplicates, and transforming the data into a format suitable for analysis.
+   The notebook may also include code for fetching and integrating data from external APIs, such as financial data or geographic information, to enrich the analysis.
+   The goal of this notebook is to prepare the datasets for further exploration and analysis.
+   
+5. **Statistical Analysis (part2_statistical_analysis.ipynb)**
+   The part2_statistical_analysis.ipynb Jupyter Notebook file concentrates on statistical analysis of the prepared datasets.
+   It may include tasks such as calculating descriptive statistics, performing hypothesis testing, and identifying trends and patterns in the data.
+   The analysis in this notebook helps to gain insights and a deeper understanding of the data, which can inform decision-making or further investigations.
+   
+7. **Interactive Visualization (part3_tesla_stock_price.ipynb)**
+   The part3_tesla_stock_price.ipynb Jupyter Notebook file focuses on interactive data visualization.
+   It likely includes the creation of various charts, graphs, and dashboards to present the insights and findings from the data analysis.
+   The interactive nature of the visualizations allows users to explore the data more intuitively and gain a better understanding of the underlying trends and relationships.
+   The purpose of this notebook is to communicate the insights effectively and support decision-making processes.
+
+Overall, this project showcases a comprehensive approach to data-driven problem-solving, combining the power of LLMs for data extraction, data cleaning and aggregation, statistical analysis, interactive visualization, and dashboard development. The project aims to demonstrate the candidate's skills and capabilities in data science, with the ultimate goal of deriving meaningful insights and supporting informed decision-making.
