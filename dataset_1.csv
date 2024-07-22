@@ -1,0 +1,21 @@
+ID,Name,Date_of_Birth,Salary,Department
+1,John Doe,1985-10-12,50000,Finance
+2,Jane Smith,not_available,62000,Marketing
+3,Emily Jones,1990-04-15,70000,Engineering
+4,Michael Brown,1975-02-20,45000,HR
+,Sarah Davis,1988-08-25,,Sales
+6,Peter Pan,1983-07-21,55000,Finance
+7,Lily Evans,1985/10/25,1200000,HR
+8,Tom Riddle,1982-11-30,31000,Marketing
+9,Bruce Wayne,1978-03-10,75000,Finance
+10,Clark Kent,1979-12-01,90000,Engineering
+11,Diana Prince,1984-05-19,not_applicable,Sales
+12,Barry Allen,1977-02-30,1000000,Engineering
+13,Arthur Curry,1983-10-10,65000,not_specified
+14,Hal Jordan,,72000,HR
+15,Victor Stone,1989-11-15,-45000,Marketing
+16,Lois Lane,1980-08-20,58000,Finance
+17,James Gordon,1975-09-15,52000,HR
+18,Selina Kyle,1985-06-07,not_available,Sales
+19,Oliver Queen,1982-09-20,1200000,Engineering
+20,Roy Harper,1988-07-10,,Marketing
