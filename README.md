@@ -20,7 +20,11 @@ This project is a comprehensive data science and analytics initiative that invol
    The part3_tesla_stock_price.ipynb Jupyter Notebook file focuses on interactive data visualization.
    It likely includes the creation of various charts, graphs, and dashboards to present the insights and findings from the data analysis.
    The interactive nature of the visualizations allows users to explore the data more intuitively and gain a better understanding of the underlying trends and relationships.
-   The purpose of this notebook is to communicate the insights effectively and support decision-making processes.![image](https://github.com/user-attachments/assets/cc878964-27b2-4754-ac27-218dcf5be44b)
+   The purpose of this notebook is to communicate the insights effectively and support decision-making processes.
+   ![image](https://github.com/user-attachments/assets/cc878964-27b2-4754-ac27-218dcf5be44b)
+   ![image](https://github.com/user-attachments/assets/be784955-2908-4dfd-b631-9624519ba94b)
+![newplot](https://github.com/user-attachments/assets/38978ef8-b96e-4bfb-b2c4-eeae65b4e6a0)
+
 
 
 Overall, this project showcases a comprehensive approach to data-driven problem-solving, combining the power of LLMs for data extraction, data cleaning and aggregation, statistical analysis, interactive visualization, and dashboard development. The project aims to demonstrate the candidate's skills and capabilities in data science, with the ultimate goal of deriving meaningful insights and supporting informed decision-making.
